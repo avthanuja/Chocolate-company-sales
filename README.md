@@ -35,11 +35,11 @@ Excel/CSV for data storage and preprocessing
 
 # 📂 Project Files
 
-Chocolate Sales Analysis.pbix - Power BI dashboard file
+Power BI project Sales analysis Chocolate company.pbix - Power BI dashboard file
 
 Chocolate sales analysis dashboard.png - Screenshot of the dashboard
 
-sales_data_sample.xlsx - Sample dataset used for the dashboard
+ac-sample-data.xlsx - Sample dataset used for the dashboard
 
 
 # 🚀 How to Use
