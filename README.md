@@ -57,3 +57,10 @@ Integrate real-time data updates.
 Enhance regional filtering with additional KPIs.
 
 Implement predictive analytics for future sales trends.
+
+
+# Author
+
+Thanuja AV
+
+Aspiring Data Analyst | SQL | Python | Power BI
